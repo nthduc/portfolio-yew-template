@@ -1,0 +1,14 @@
+{
+  "name": "maeurerdev",
+  "version": "2.0.0",
+  "description": "Portfolio Website for Marc ",
+  "author": {
+    "name": "Marc ",
+    "email": "marc.maeurer@pm.me"
+  },
+  "scripts": {
+    "dev": "trunk serve --open",
+    "build": "trunk build"
+  },
+  "license": "MIT"
+}
